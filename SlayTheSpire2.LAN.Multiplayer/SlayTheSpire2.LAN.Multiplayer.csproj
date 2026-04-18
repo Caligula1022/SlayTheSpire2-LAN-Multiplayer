@@ -4,8 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyVersion>1.6.3.0</AssemblyVersion>
-    <FileVersion>1.6.3.0</FileVersion>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
     <Sts2InstallDir Condition="'$(Sts2InstallDir)' == '' and '$(OS)' == 'Windows_NT'">V:\SteamLibrary\steamapps\common\Slay the Spire 2</Sts2InstallDir>
     <Sts2InstallDir Condition="'$(Sts2InstallDir)' == '' and '$(OS)' != 'Windows_NT'">$(HOME)/Library/Application Support/Steam/steamapps/common/Slay the Spire 2/SlayTheSpire2.app/Contents/Resources</Sts2InstallDir>
     <Sts2DataDir Condition="'$(Sts2DataDir)' == '' and Exists('$(Sts2InstallDir)/data_sts2_macos_arm64')">$(Sts2InstallDir)/data_sts2_macos_arm64</Sts2DataDir>
