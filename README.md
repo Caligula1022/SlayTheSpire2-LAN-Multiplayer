@@ -1,5 +1,7 @@
 # SlayTheSpire2.LAN.Multiplayer
 
+> **Fork of [kmyuhkyuk/SlayTheSpire2.LAN.Multiplayer](https://github.com/kmyuhkyuk/SlayTheSpire2.LAN.Multiplayer)**
+
 <img src="mod_image.png" width="256"/>
 
 A mod for [Slay the Spire 2](https://store.steampowered.com/app/2868840/) that adds **LAN (Local Area Network) multiplayer**, allowing you to play with friends over a local network without requiring Steam multiplayer services.
